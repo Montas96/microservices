@@ -1,4 +1,4 @@
 db:
-   connection: connection from git test
+   connection: connection from git test 1
    port: 123456
    name: db-test prod
