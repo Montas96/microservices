@@ -1,5 +1,5 @@
 management.endpoints.web.exposure.include: "*"
-message=Hello world
+message: Hello world
 db:
    connection: connection test
    port: 123456
